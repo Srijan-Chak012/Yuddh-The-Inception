@@ -9,6 +9,7 @@ As Alexander the Great and his Greek army, we are only able to move the great ki
 3. 's' for moving down
 4. 'd' for moving towards the right
 5. ' ' for attacking any building next to him
+
 However, we provide the option to play as Queen Cleopatra to play as herself and conquer the incoming armies (and don't tell historians this but she is definitely more powerful than the king).
 
 For Queen Cleoptra and her army, we provide the following commands to move her highness:
